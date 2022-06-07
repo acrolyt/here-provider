@@ -2,6 +2,9 @@
 
 The change log describes what is "Added", "Removed", "Changed" or "Fixed" between each release.
 
+## 0.7.0
+- Adds support for latest here maps api
+
 ## 0.6.0
 
 ### Added

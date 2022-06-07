@@ -1,14 +1,13 @@
 {
-    "name": "geocoder-php/here-provider",
+    "name": "cb/here-provider",
     "type": "library",
     "description": "Geocoder here adapter",
     "keywords": [],
-    "homepage": "http://geocoder-php.org/Geocoder/",
     "license": "MIT",
     "authors": [
         {
-            "name": "William Durand",
-            "email": "william.durand1@gmail.com"
+            "name": "Marco Wegner",
+            "email": "acrolyt@gmail.com"
         }
     ],
     "require": {

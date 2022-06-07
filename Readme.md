@@ -7,8 +7,9 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/geocoder-php/here-provider.svg?style=flat-square)](https://scrutinizer-ci.com/g/geocoder-php/here-provider)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
-This is the Here provider from the PHP Geocoder. This is a **READ ONLY** repository. See the
-[main repo](https://github.com/geocoder-php/Geocoder) for information and documentation.
+
+## This is an attempt to update the original repo to the HereMaps API v8
+[original repo](https://github.com/geocoder-php/Geocoder) for information and documentation.
 
 You can find the [documentation for the provider here](https://developer.here.com/documentation/geocoder/dev_guide/topics/resources.html).
 
