@@ -1,5 +1,5 @@
 {
-    "name": "cb/here-provider",
+    "name": "geocoder-php/here-provider",
     "type": "library",
     "description": "Geocoder here adapter",
     "keywords": [],
